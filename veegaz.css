@@ -1,0 +1,32 @@
+.all{
+    background-color: pink;
+}
+.link{
+    text-decoration: none;
+    color: brown;
+}
+.link:hover{
+    color: black;
+}
+.btn{
+    background-color: blue;
+    color: azure;
+}
+.btn:hover{
+    background-color: black;
+}
+.a{
+text-decoration: none;
+color: antiquewhite;
+}
+.pop{
+    text-decoration: none;
+    background-color: brown;
+    color: azure;
+    padding: 0.25rem;
+    border-radius: 3px;
+}
+.pop:hover{
+    background-color: black;
+    color: brown;
+}
